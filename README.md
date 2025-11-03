@@ -33,7 +33,7 @@ coffee-haven/
 
 🔗 View Coffee Haven
 
-(Replace yourusername with your actual GitHub username once your project is live.)
+(https://aliarubab.github.io/coffee-haven/)
 
 💡 Future Improvements
 
