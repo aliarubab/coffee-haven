@@ -45,9 +45,3 @@ Include animations and transitions for smoother effects
 Alia Rubab
 - 💼 [GitHub Profile](https://github.com/aliarubab)
 - 🌐 [Portfolio Website](https://aliarubab.github.io/my-portfolio/myPotfolio/index.html)
-
-
-
----
-
-Would you like me to add emojis removed and make it a pure professional text version (no emojis, minimal and formal) — or do you want to keep this slightly aesthetic version?
