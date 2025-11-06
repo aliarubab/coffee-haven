@@ -443,6 +443,7 @@ button:hover {
   background-color: #8b5e3c;
   transform: scale(1.05);
 }
+}
 
 /* ===== RESPONSIVE DESIGN ===== */
 @media (max-width: 768px) {
@@ -474,5 +475,4 @@ button:hover {
   h1, h2 {
     text-align: center;
   }
->>>>>>> f2ab73b5ac0d3e47f0f63bf6820778fd8360bfd5
 }
